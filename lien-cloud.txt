@@ -1,0 +1,7 @@
+https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#Instances:
+
+
+
+
+
+https://eu-west-1.console.aws.amazon.com/cloudwatch/home?region=eu-west-1#dashboards/dashboard/mediscan-dashboard
